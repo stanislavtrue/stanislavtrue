@@ -1,4 +1,5 @@
 ## Hi there 👋
+![](dist/github-contribution-grid-snake-dark.svg)
 <!--
 **stanislavtrue/stanislavtrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
