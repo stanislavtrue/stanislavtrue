@@ -1,5 +1,4 @@
 ## Hi there 👋
-![Snake animation](https://github.com/stanislavtue/stanislavtrue/blob/main/github-contribution-grid-snake.svg)
 <!--
 **stanislavtrue/stanislavtrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
