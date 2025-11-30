@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Snake animation](https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/output/snake.svg)
+![Snake animation](https://github.com/stanislavtrue/stanislavtrue/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **stanislavtrue/stanislavtrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
