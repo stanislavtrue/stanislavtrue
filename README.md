@@ -1,4 +1,6 @@
 ## Hi there 👋
+![Snake animation](https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_USERNAME>/output/snake.svg)
+
 <!--
 **stanislavtrue/stanislavtrue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
