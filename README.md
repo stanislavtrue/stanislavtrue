@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <p align = "center"> 
+<img src="https://github.com/user-attachments/assets/22efe589-7dea-45a5-b365-61d1759e68a6">
 <img src="https://github.com/stanislavtrue/stanislavtrue/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 <!--
