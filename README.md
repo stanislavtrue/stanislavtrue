@@ -3,4 +3,4 @@
 <img src="https://github.com/stanislavtrue/stanislavtrue/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 # Tech Stack:
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png
+<img src = "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png">
