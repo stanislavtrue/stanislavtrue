@@ -3,5 +3,5 @@
 <img src="https://github.com/stanislavtrue/stanislavtrue/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-# Tech Stack:
+### Tech Stack:
 
