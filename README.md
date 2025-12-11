@@ -4,4 +4,4 @@
 </p>
 
 ### Tools and Technologies:
-![](https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,dotnet,html,css,visualstudio,vscode,vim,linux,windows,unity,docker,podman,git,github,bash,figma&tit%D1%89les=true)
+<p align = "center"> <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,dotnet,html,css,visualstudio,vscode,vim,linux,windows,unity,docker,podman,git,github,bash,figma&tit%D1%89les=true"></p>
