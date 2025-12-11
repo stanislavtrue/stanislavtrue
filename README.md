@@ -4,4 +4,6 @@
 </p>
 
 ### Tools and Technologies:
+<p align="center">
 <img src="https://skill-icons-v2.vercel.app/api/icons?i=cs,cpp,dotnet,html,css,visualstudio,vscode,vim,linux,windows,unity,docker,podman,postgresql,git,github,bash,figma&theme=dark">
+</p>
