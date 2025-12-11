@@ -3,5 +3,5 @@
 <img src="https://github.com/stanislavtrue/stanislavtrue/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-### Tools and Technologies:
+  ### Tools and Technologies:
 <p align = "center"> <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,dotnet,html,css,visualstudio,vscode,vim,linux,windows,unity,docker,podman,git,github,bash,figma&tit%D1%89les=true"></p>
