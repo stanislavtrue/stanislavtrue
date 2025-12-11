@@ -3,5 +3,5 @@
 <img src="https://github.com/stanislavtrue/stanislavtrue/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-### Tech Stack:
-![]("https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png")
+### Tools and Technologies:
+![]("https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,dotnet,html,css,visualstudio,vscode,vim,linux,windows,unity,docker,podman,git,github,bash,figma&tit%D1%89les=true")
